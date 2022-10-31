@@ -14,7 +14,7 @@ function App() {
       workshopDate: "2022-10-20T23:50",
       workshopName: "Talk Show",
       workshopType: "Online",
-      workshopUrl: "Zoom",
+      workshopUrl: "https://www.zoom.com",
       workshopVenue: "",
     },
     {
@@ -30,7 +30,7 @@ function App() {
       workshopDate: "2022-10-20T23:50",
       workshopName: "Talk Show",
       workshopType: "Online",
-      workshopUrl: "Meet",
+      workshopUrl: "https://www.zoom.com",
       workshopVenue: "",
     },
     {
@@ -38,7 +38,7 @@ function App() {
       workshopDate: "2022-10-20T23:50",
       workshopName: "Java",
       workshopType: "Online",
-      workshopUrl: "Meet",
+      workshopUrl: "https://www.zoom.com",
       workshopVenue: "",
     },
   ]);
