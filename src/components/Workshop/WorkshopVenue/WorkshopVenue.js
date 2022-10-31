@@ -5,9 +5,8 @@ import { ReactComponent as Venue } from "../../../icons/venue.svg";
 
 const WorkshopVenue = ({ workshop }) => {
 
-    console.log(workshop);
 
-  if (workshop.workshopType === "Online") {
+  if (workshop.workshopType.toUpperCase() === "ONLINE") {
     return (
       <div className="workshopLink">
         <Wifi width={16} height={16}></Wifi>

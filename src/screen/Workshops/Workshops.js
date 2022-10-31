@@ -8,7 +8,6 @@ import WorkshopVenue from "../../components/Workshop/WorkshopVenue/WorkshopVenue
 import { NavLink } from "react-router-dom";
 
 const Workshops = ({ workshops }) => {
-  console.log(workshops);
 
   return (
     <div className="container">
