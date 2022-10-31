@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d095f98.css",
-    "main.js": "/static/js/main.9ea077a3.js",
-    "static/media/Mulish-Regular.ttf": "/static/media/Mulish-Regular.06ce9c37c31ae94797a2.ttf",
-    "static/media/venue.svg": "/static/media/venue.40a4bc8bf064063869f3e03c3c775f5c.svg",
-    "static/media/settings.svg": "/static/media/settings.f828c244a567d7e0d0fab19db1818889.svg",
-    "static/media/date.svg": "/static/media/date.d631387b9a5e24b984bf7e38aea58aba.svg",
-    "static/media/wifi.svg": "/static/media/wifi.36ccde5830498b4d8158c8b95e17a143.svg",
-    "static/media/NotificationBell.svg": "/static/media/NotificationBell.9eda4057e7f311dbf9de6ca9d28e4faa.svg",
-    "static/media/user.svg": "/static/media/user.802a00142babee8a787b077d0c52e808.svg",
-    "index.html": "/index.html",
-    "static/media/edit.svg": "/static/media/edit.d15f60b92c9f4ca94679f9e74e84dbbd.svg",
-    "static/media/Menu.svg": "/static/media/Menu.d0737a73c64383c3735d37af0d30d854.svg",
-    "static/media/plus.svg": "/static/media/plus.de6bf14943a411f2c054f881823f0405.svg",
-    "static/media/logo.svg": "/static/media/logo.62dab4a7b5bf2fb77b89c3458405b0b6.svg",
-    "main.4d095f98.css.map": "/static/css/main.4d095f98.css.map",
-    "main.9ea077a3.js.map": "/static/js/main.9ea077a3.js.map"
+    "main.css": "/Workshop-Project/static/css/main.c0b31cf1.css",
+    "main.js": "/Workshop-Project/static/js/main.5e24987b.js",
+    "static/media/Mulish-Regular.ttf": "/Workshop-Project/static/media/Mulish-Regular.06ce9c37c31ae94797a2.ttf",
+    "static/media/venue.svg": "/Workshop-Project/static/media/venue.40a4bc8bf064063869f3e03c3c775f5c.svg",
+    "static/media/settings.svg": "/Workshop-Project/static/media/settings.f828c244a567d7e0d0fab19db1818889.svg",
+    "static/media/date.svg": "/Workshop-Project/static/media/date.d631387b9a5e24b984bf7e38aea58aba.svg",
+    "static/media/wifi.svg": "/Workshop-Project/static/media/wifi.36ccde5830498b4d8158c8b95e17a143.svg",
+    "static/media/NotificationBell.svg": "/Workshop-Project/static/media/NotificationBell.9eda4057e7f311dbf9de6ca9d28e4faa.svg",
+    "static/media/user.svg": "/Workshop-Project/static/media/user.802a00142babee8a787b077d0c52e808.svg",
+    "index.html": "/Workshop-Project/index.html",
+    "static/media/edit.svg": "/Workshop-Project/static/media/edit.d15f60b92c9f4ca94679f9e74e84dbbd.svg",
+    "static/media/Menu.svg": "/Workshop-Project/static/media/Menu.d0737a73c64383c3735d37af0d30d854.svg",
+    "static/media/plus.svg": "/Workshop-Project/static/media/plus.de6bf14943a411f2c054f881823f0405.svg",
+    "static/media/logo.svg": "/Workshop-Project/static/media/logo.62dab4a7b5bf2fb77b89c3458405b0b6.svg",
+    "main.c0b31cf1.css.map": "/Workshop-Project/static/css/main.c0b31cf1.css.map",
+    "main.5e24987b.js.map": "/Workshop-Project/static/js/main.5e24987b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d095f98.css",
-    "static/js/main.9ea077a3.js"
+    "static/css/main.c0b31cf1.css",
+    "static/js/main.5e24987b.js"
   ]
 }
