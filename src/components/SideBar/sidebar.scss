@@ -1,0 +1,43 @@
+@import "../../base.scss";
+
+.sidebar {
+
+  @media screen and (max-width: $small) {
+    width: 5rem;
+  }
+  position: fixed;
+  top: 5rem;
+  width: 7rem;
+  height: calc(100vh - 6rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  &__top , &__bottom {
+    ul {
+      list-style: none;
+    }
+    a {
+      margin-top: 42px;
+      width: 56px;
+      height: 56px;
+      border-radius: 0.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      &.active , &:hover {
+        background-color: $bg-color-primary;
+
+        svg {
+          fill: white !important ;
+        }
+      }
+
+    }
+  }
+  &__bottom {
+    margin-bottom: 110px;
+  }
+}

@@ -1,0 +1,108 @@
+@import "../../../base";
+
+.workshopForm {
+  display: flex;
+  flex-direction: column;
+
+  .FormItems {
+    display: flex;
+    flex-direction: row;
+    width: 80vw;
+    justify-content: space-between;
+    margin: 1rem 0;
+
+    .FormItem {
+      display: flex;
+      flex-direction: column;
+      padding-right: 2rem;
+
+      width: 30vw;
+
+      input {
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: 2px solid black;
+        font-size: 1.25rem;
+        color: #151414;
+      }
+
+      label {
+        color: #f80808;
+        font-weight: 600;
+        padding-bottom: 0.25rem;
+      }
+    }
+
+    .FormImage {
+      border-radius: 2rem;
+      height: 280px;
+      min-height: fit-content;
+      width: 80vw;
+      background-repeat: no-repeat;
+      background-size: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      justify-content: flex-end;
+
+      .changeCoverImage {
+        margin: 1rem 2rem;
+        font-size: 2rem;
+        padding: 0.25rem 0.75rem;
+        color: black;
+        font-weight: 600;
+        border-radius: 0.5rem;
+
+        .imageInput {
+          width: 0.1px;
+          height: 0.1px;
+          opacity: 0;
+          overflow: hidden;
+          position: absolute;
+          z-index: -1;
+        }
+
+        .imageInputLabel {
+          cursor: pointer;
+          display: inline-flex;
+          align-items: center;
+          border-radius: 4px;
+          font-size: 14px;
+          font-weight: 600;
+          color: #fff;
+          font-size: 14px;
+          padding: 10px 12px;
+          background-color: white;
+          color: black;
+          box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.25);
+
+          svg {
+            height: 16px;
+            margin-right: 4px;
+          }
+        }
+      }
+    }
+  }
+
+  .FormSubmitButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+
+    input {
+      background-color: #f50808;
+      color: white;
+      padding: 0.5rem;
+      font-size: 1.5rem;
+      border-radius: 1rem;
+      border: none;
+
+      &:hover{
+        cursor: pointer;
+      }
+    }
+  }
+}

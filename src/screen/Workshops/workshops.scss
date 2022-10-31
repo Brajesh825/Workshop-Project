@@ -1,0 +1,102 @@
+@import "../../base";
+
+.workshops {
+  margin-top: 5rem;
+  background-color: $color-white;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  background-color: $bg-color-tertiary;
+
+  @media screen and (min-width: $very-large) {
+  }
+
+  @media screen and (max-width: $medium) {
+  }
+
+  @media screen and (max-width: $very-small) {
+    padding: 0px;
+  }
+
+  .workshopItems {
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 1rem;
+
+    .workshopItem {
+      width: fit-content;
+      padding: 2rem;
+      margin: 1rem;
+      justify-content: center;
+      max-height: 320px;
+      border-radius: 1rem;
+      .workshopItemTop {
+        background: #d9d9d9;
+
+        .workshopImageContainer {
+          overflow: hidden;
+          max-height: 280px;
+          width: 300px;
+          max-width: 300px;
+          img {
+            height: 100%;
+            overflow: hidden;
+            max-height: 200px;
+            width: 280px;
+            max-width: 280px;
+
+            -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+            -webkit-transition: 0.4s ease-in-out;
+            transition: 0.4s ease-in-out;
+
+          }
+        }
+        padding-bottom: 1rem;
+      }
+      .workshopItemBottom {
+        background: #d9d9d9;
+        padding: 0.25rem 1rem 0.5rem 1rem;
+
+        .workshopItemHeader {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          justify-content: space-between;
+          padding: 0.25rem;
+
+          .workshopType {
+            padding: 0.25rem 1rem;
+            color: black;
+            background-color: skyblue;
+            border-radius: 0.75rem;
+          }
+        }
+        .workshopItemBody {
+          padding: 0.25rem;
+          .workshopDate {
+            padding: 0.25rem;
+            display: flex;
+          }
+          .workshopLink {
+            padding: 0.25rem;
+            display: flex;
+            align-items: center;
+
+            a,h3{
+              font-weight: 600;
+            }
+
+            svg {
+              padding-right : 0.25rem;
+            }
+          }
+        }
+        .workshopItemFooter {
+          display: flex;
+          flex-direction: row;
+          justify-content: flex-end;
+        }
+      }
+    }
+  }
+}
