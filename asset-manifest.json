@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "https://brajesh825.github.io/Workshop-Project/static/css/main.137d8e58.css",
-    "main.js": "https://brajesh825.github.io/Workshop-Project/static/js/main.f919381a.js",
-    "static/media/Mulish-Regular.ttf": "https://brajesh825.github.io/Workshop-Project/static/media/Mulish-Regular.06ce9c37c31ae94797a2.ttf",
-    "static/media/venue.svg": "https://brajesh825.github.io/Workshop-Project/static/media/venue.40a4bc8bf064063869f3e03c3c775f5c.svg",
-    "static/media/settings.svg": "https://brajesh825.github.io/Workshop-Project/static/media/settings.f828c244a567d7e0d0fab19db1818889.svg",
-    "static/media/date.svg": "https://brajesh825.github.io/Workshop-Project/static/media/date.d631387b9a5e24b984bf7e38aea58aba.svg",
-    "static/media/wifi.svg": "https://brajesh825.github.io/Workshop-Project/static/media/wifi.36ccde5830498b4d8158c8b95e17a143.svg",
-    "static/media/NotificationBell.svg": "https://brajesh825.github.io/Workshop-Project/static/media/NotificationBell.9eda4057e7f311dbf9de6ca9d28e4faa.svg",
-    "static/media/user.svg": "https://brajesh825.github.io/Workshop-Project/static/media/user.802a00142babee8a787b077d0c52e808.svg",
-    "index.html": "https://brajesh825.github.io/Workshop-Project/index.html",
-    "static/media/edit.svg": "https://brajesh825.github.io/Workshop-Project/static/media/edit.d15f60b92c9f4ca94679f9e74e84dbbd.svg",
-    "static/media/Menu.svg": "https://brajesh825.github.io/Workshop-Project/static/media/Menu.d0737a73c64383c3735d37af0d30d854.svg",
-    "static/media/plus.svg": "https://brajesh825.github.io/Workshop-Project/static/media/plus.de6bf14943a411f2c054f881823f0405.svg",
-    "static/media/logo.svg": "https://brajesh825.github.io/Workshop-Project/static/media/logo.62dab4a7b5bf2fb77b89c3458405b0b6.svg",
-    "main.137d8e58.css.map": "https://brajesh825.github.io/Workshop-Project/static/css/main.137d8e58.css.map",
-    "main.f919381a.js.map": "https://brajesh825.github.io/Workshop-Project/static/js/main.f919381a.js.map"
+    "main.css": "https://whale-app-enkas.ondigitalocean.app/static/css/main.605c77b5.css",
+    "main.js": "https://whale-app-enkas.ondigitalocean.app/static/js/main.d4ece005.js",
+    "static/media/Mulish-Regular.ttf": "https://whale-app-enkas.ondigitalocean.app/static/media/Mulish-Regular.06ce9c37c31ae94797a2.ttf",
+    "static/media/venue.svg": "https://whale-app-enkas.ondigitalocean.app/static/media/venue.40a4bc8bf064063869f3e03c3c775f5c.svg",
+    "static/media/settings.svg": "https://whale-app-enkas.ondigitalocean.app/static/media/settings.f828c244a567d7e0d0fab19db1818889.svg",
+    "static/media/date.svg": "https://whale-app-enkas.ondigitalocean.app/static/media/date.d631387b9a5e24b984bf7e38aea58aba.svg",
+    "static/media/wifi.svg": "https://whale-app-enkas.ondigitalocean.app/static/media/wifi.36ccde5830498b4d8158c8b95e17a143.svg",
+    "static/media/NotificationBell.svg": "https://whale-app-enkas.ondigitalocean.app/static/media/NotificationBell.9eda4057e7f311dbf9de6ca9d28e4faa.svg",
+    "static/media/user.svg": "https://whale-app-enkas.ondigitalocean.app/static/media/user.802a00142babee8a787b077d0c52e808.svg",
+    "index.html": "https://whale-app-enkas.ondigitalocean.app/index.html",
+    "static/media/edit.svg": "https://whale-app-enkas.ondigitalocean.app/static/media/edit.d15f60b92c9f4ca94679f9e74e84dbbd.svg",
+    "static/media/Menu.svg": "https://whale-app-enkas.ondigitalocean.app/static/media/Menu.d0737a73c64383c3735d37af0d30d854.svg",
+    "static/media/plus.svg": "https://whale-app-enkas.ondigitalocean.app/static/media/plus.de6bf14943a411f2c054f881823f0405.svg",
+    "static/media/logo.svg": "https://whale-app-enkas.ondigitalocean.app/static/media/logo.62dab4a7b5bf2fb77b89c3458405b0b6.svg",
+    "main.605c77b5.css.map": "https://whale-app-enkas.ondigitalocean.app/static/css/main.605c77b5.css.map",
+    "main.d4ece005.js.map": "https://whale-app-enkas.ondigitalocean.app/static/js/main.d4ece005.js.map"
   },
   "entrypoints": [
-    "static/css/main.137d8e58.css",
-    "static/js/main.f919381a.js"
+    "static/css/main.605c77b5.css",
+    "static/js/main.d4ece005.js"
   ]
 }
